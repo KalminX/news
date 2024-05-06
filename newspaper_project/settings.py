@@ -40,8 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # 3rd Party
-    'crispy_forms', # add this
-    'crispy_bootstrap4',
+    # 'crispy_forms', # add this
+    # 'crispy_bootstrap4',
 
     # Local
     'users.apps.UsersConfig',

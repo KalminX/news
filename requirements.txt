@@ -1,7 +1,8 @@
 asgiref==3.7.2
 beautifulsoup4==4.12.3
-Django==3.2.1
-django-crispy-forms==2.1
+crispy-bootstrap4==2024.1
+Django==4.1
+django-bootstrap5==23.4
 gunicorn==22.0.0
 packaging==24.0
 psycopg2-binary==2.9.9
