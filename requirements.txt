@@ -1,6 +1,5 @@
 asgiref==3.7.2
 beautifulsoup4==4.12.3
-crispy-bootstrap4==2024.1
 Django==3.2.1
 django-bootstrap4==24.1
 django-bootstrap5==23.4
